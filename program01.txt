@@ -1,0 +1,9 @@
+My algorithm :
+The function refers to the class Game 
+Where does the all work,
+The object main() gathers all the small sum functions
+
+1. gets the parameters of current board
+2. lists all the empty cells,
+3. Game ends if both players can't move or there will be no more empty cells
+4. Calculates the amount of disks, returns tie if they're the same amount
